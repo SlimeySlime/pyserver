@@ -1,0 +1,9 @@
+
+###
+GET http://localhost:8000/items/3
+Content-Type: application/json
+
+
+###
+PUT http://localhost:8000/items/3
+Content-Type: application/json
